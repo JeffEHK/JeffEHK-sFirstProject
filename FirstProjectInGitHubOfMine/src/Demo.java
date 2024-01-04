@@ -1,5 +1,5 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("hello GitHub...\nÄãºÃGitHub...");
+        System.out.println("hello GitHub...\nÃ„Ã£ÂºÃƒGitHub...");
     }
 }
